@@ -9,7 +9,7 @@ public class Controller {
 
 	@GetMapping("/get")
 	public String getHello() {
-		return "Get Method!!!!!!!!!!!!!!!!!!!! wow 안녕 민경아";
+		return "Get Method!!!!!!!!!!!!!!!!!!!! wow 안녕 홍치환";
 	}
 	
 	@PostMapping("/post")
